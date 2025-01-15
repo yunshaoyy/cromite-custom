@@ -1,4 +1,5 @@
-# cromitewebview-testkey
+# cromite-testkey
+## Resign cromite with AOSP's testkey
 ```
 download arm64_SystemWebView64.apk from https://github.com/uazo/cromite/releases
 ```
