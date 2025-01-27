@@ -1,2 +1,2 @@
 cd workfolder
-apksigner sign --key testkey.pk8 --cert testkey.x509.pem --out arm64_SystemWebView64-resigned.apk arm64_SystemWebView64.apk
+apksigner sign --key testkey/testkey.pk8 --cert testkey/testkey.x509.pem --out webview-resigned.apk android_external_chromium-webview_prebuilt_arm64/webview.apk
