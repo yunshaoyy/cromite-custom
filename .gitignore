@@ -1,4 +1,2 @@
-/android_external_chromium-webview_prebuilt_arm64
-/chromium
-webview-resigned.apk
-webview-resigned.apk.idsig
+android/android_external_chromium-webview_prebuilt_arm64
+windows/chromium

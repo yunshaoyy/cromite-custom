@@ -1,0 +1,1 @@
+apksigner sign --key testkey/testkey.pk8 --cert testkey/testkey.x509.pem --out  android_external_chromium-webview_prebuilt_arm64/webview-resigned.apk android_external_chromium-webview_prebuilt_arm64/webview.apk
